@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RP",
+			"Path": "C:\\Users\\user\\Desktop\\ServerProcet\\RPGProJect\\RP\\Source\\RP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RPEditor",
+			"Path": "C:\\Users\\user\\Desktop\\ServerProcet\\RPGProJect\\RP\\Source\\RPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
